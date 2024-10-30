@@ -46,3 +46,16 @@ spongebob
 mango
 apples
 godzilla
+
+./pipes - "ls -l" -
+
+total 52
+-rw-r--r-- 1 root root   463 Oct 30 12:31 -
+-rw-r--r-- 1 root root    55 Oct 29 20:17 Makefile
+-rw-r--r-- 1 root root   714 Oct 29 20:17 README.md
+-rw-r--r-- 1 root root   101 Oct 29 20:17 input.txt
+-rw-r--r-- 1 root root   101 Oct 30 12:28 output.txt
+-rwxr-xr-x 1 root root 17032 Oct 30 12:33 pipes
+-rw-r--r-- 1 root root  4061 Oct 30 12:33 pipes.c
+-rw-r--r-- 1 root root   208 Oct 30 12:01 redir.c
+-rw-r--r-- 1 root root   552 Oct 30 11:48 results.txt
