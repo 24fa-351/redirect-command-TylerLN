@@ -1,0 +1,48 @@
+./pipes input.txt sort output.txt 
+
+apples
+apples
+bananas
+capybara
+cherries
+godzilla
+grapes
+lychee
+mango
+spongebob
+watermelon
+watermelon
+
+./pipes input.txt "sort -r" output.txt 
+
+watermelon
+watermelon
+spongebob
+mango
+lychee
+grapes
+godzilla
+cherries
+capybara
+bananas
+apples
+apples
+
+./pipes input.txt "wc -l" output.txt 
+
+12
+
+./pipes input.txt uniq output.txt 
+
+apples
+lychee
+watermelon
+grapes
+capybara
+bananas
+cherries
+watermelon
+spongebob
+mango
+apples
+godzilla
