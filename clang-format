@@ -1,8 +1,0 @@
-Language: Cpp
-BasedOnStyle: WebKit
-IndentWidth: 4
-TabWidth: 4
-UseTab: Never
-ColumnLimit: 80
-ReflowComments: true
-AlignOperands: true
